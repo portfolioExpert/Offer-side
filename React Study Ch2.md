@@ -76,8 +76,8 @@ https://github.com/facebook/create-react-app
 - 지원하기 화면
 - 지원완료 화면
 
-![스크린샷 2022-10-02 오후 5.12.53](/Users/mac/Desktop/스크린샷 2022-10-02 오후 5.12.53.png)
 
+<img width="369" alt="스크린샷 2022-10-02 오후 5 12 53" src="https://user-images.githubusercontent.com/52316270/193604030-1cbe8892-37e5-438a-b73f-4560c9baf6fa.png">
 
 
 ## 5. 궁금한 것
